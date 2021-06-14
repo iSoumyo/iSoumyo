@@ -15,7 +15,7 @@
 
 - LinkedIn - https://www.linkedin.com/in/soumyojyoti-sen-648a23212/
 - Twitter -https://twitter.com/SoumyojyotiS
- - Websites - https://sites.google.com/view/soumyosen/&& https://soumyosen.wordpress.com/
+ - Websites - https://sites.google.com/view/soumyosen/ && https://soumyosen.wordpress.com/
 
 Thank you.
 

@@ -1,11 +1,11 @@
-- Hello there,
-- I am Soumyojyoti Sen, I am a student of class 8,I am a Jr. Google Developer,
-- Freelancer,Website Maker, Logo Maker,Coder and Programmer,I am a certified programmer.
-- I know languages like Java,Python,HTML,CSS,Flutter, QBasic and learning on.
-- I am still trying to become a Google Developer Expert.
-- I am contributing Google through CrowdSource and Google Developers.
-- 
-- 
+ Hello there,
+ I am Soumyojyoti Sen, I am a student of class 8,I am a Jr. Google Developer,
+ Freelancer,Website Maker, Logo Maker,Coder and Programmer,I am a certified programmer.
+ I know languages like Java,Python,HTML,CSS,Flutter, QBasic and learning on.
+ I am still trying to become a Google Developer Expert.
+ I am contributing Google through CrowdSource and Google Developers.
+ 
+ 
 - 👋 Hi, I’m @iSoumyo
 - 👀 I’m interested in Programming Coding and exploring new techy things.
 - 🌱 I’m currently learning Coding, Ethical Hacking, Programming Languages.
@@ -13,9 +13,9 @@
 - 📫 How to reach me Gmail- soumyosen.in@gmail.com
 
 
-LinkedIn - https://www.linkedin.com/in/soumyojyoti-sen-648a23212/
-Twitter -https://twitter.com/SoumyojyotiS
-Websites - https://sites.google.com/view/soumyosen/&& https://soumyosen.wordpress.com/
+- LinkedIn - https://www.linkedin.com/in/soumyojyoti-sen-648a23212/
+- Twitter -https://twitter.com/SoumyojyotiS
+ - Websites - https://sites.google.com/view/soumyosen/&& https://soumyosen.wordpress.com/
 
 Thank you.
 

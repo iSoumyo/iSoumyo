@@ -1,5 +1,5 @@
  Hello there,
- I am Soumyojyoti Sen, I am a student of class 8,I am a Jr. Google Developer,
+ I am Soumyojyoti Sen, I am a student of class 8,I am a Google ML Developer,
  Freelancer,Website Maker, Logo Maker,Coder and Programmer,I am a certified programmer.
  I know languages like C++,Java,Python,HTML,CSS,Visual Basic,QBasic and learning on.
  I am still trying to become a Google Developer Expert.
@@ -10,12 +10,11 @@
 - 👀 I’m interested in Programming Coding and exploring new techy things.
 - 🌱 I’m currently learning Coding, Ethical Hacking, Programming Languages.
 - 💞️ I’m looking to collaborate on Python,HTML project's and Data Entry project's.
-- 📫 How to reach me Gmail- soumyosen.in@gmail.com
+- 📫 How to reach me? -- Gmail- soumyosen.in@gmail.com
 
-
+ - Website - https://soumyosen.ml
 - LinkedIn - https://www.linkedin.com/in/soumyojyoti-sen-648a23212/
 - Twitter -https://twitter.com/SoumyojyotiS
- - Websites - http://soumyosen.ml
   
 Thank you.
 

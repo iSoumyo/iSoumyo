@@ -10,11 +10,11 @@
 - 👀 I’m interested in Programming Coding and exploring new techy things.
 - 🌱 I’m currently learning Coding, Ethical Hacking, Programming Languages.
 - 💞️ I’m looking to collaborate on Python,HTML project's and Data Entry project's.
-- 📫 How to reach me? -- Gmail- soumyosen.in@gmail.com
+- 📫 How to reach me? -- Insta:- @ikiatb.soumyo
 
  - Website - https://soumyosen.ml
 - LinkedIn - https://www.linkedin.com/in/soumyojyoti-sen-648a23212/
-- Twitter -https://twitter.com/SoumyojyotiS
+- Twitter -https://instagram.com/ikiatb.soumyo
   
 Thank you.
 
